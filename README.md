@@ -1,4 +1,4 @@
-# U.S. States Game
+# Guess U.S. States Game
 
 Welcome to the U.S. States Game! This simple Python game allows users to guess the names of U.S. states based on their coordinates on a map. 
 
