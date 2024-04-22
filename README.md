@@ -2,7 +2,7 @@
 
 Welcome to the U.S. States Game! This simple Python game allows users to guess the names of U.S. states based on their coordinates on a map. 
 
-![Screenshot 2024-04-22 at 11 53 25 AM](https://github.com/taeleeswe/us_states/assets/123449246/dc948294-eab4-44fb-a772-343dca9eebdc)
+![Screenshot 2024-04-22 at 11 54 38 AM](https://github.com/taeleeswe/us_states/assets/123449246/cbf9fe73-9333-42c9-b928-df62fb29ad6a)
 
 
 ## Installation
